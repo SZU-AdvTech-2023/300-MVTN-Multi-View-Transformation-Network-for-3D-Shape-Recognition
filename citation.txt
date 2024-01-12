@@ -1,0 +1,7 @@
+@inproceedings{REPO300,
+    author = "Hamdi, Abdullah and Giancola, Silvio and Ghanem, Bernard",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "1--11",
+    title = "{MVTN: Multi-View Transformation Network for 3D Shape Recognition}",
+    year = "2021"
+}
